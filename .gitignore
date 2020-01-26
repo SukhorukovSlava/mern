@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+.idea
+
+
+# production
+package-lock.json
+/build
+/config/default.json
+/client/node_modules/
+/client/package-lock.json
